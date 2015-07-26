@@ -1,0 +1,18 @@
+<dl>
+  <dt>Name</dt>
+  <dd>{{ page.baker.name }}</dd>
+  <dt>Website</dt>
+  <dd><a href="{{ page.baker.url}}" target="_blank">{{ page.baker.url}}</a></dd>
+  <dt>Address</dt>
+  <dd>{{ page.location.street.address }}, {{ page.location.street.city }} {{ page.location.street.zip }}</dd>
+  <dt>Score</dt>
+  <dd>{{ page.score }}</dd>
+  <dt>Subway Lines</dt>
+  <dd>
+    <ul class="subway">
+      {% for line in page.location.subway.lines %}
+        <li class="subway-{{ line | downcase }}">{{ line }}</li>
+      {% endfor %}
+    </ul>
+  </dd>
+</dl>

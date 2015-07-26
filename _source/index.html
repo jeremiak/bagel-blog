@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  {% for page in site.posts %}
+    {% if forloop.first == true %}
+      <header class="post-header">
+        <h1 class="post-title">Most recent review: "{{ page.title }}"</h1>
+        <p>in which I order a {{ page.bagel.type }} bagel with {{ page.bagel.schmear }} schmear. <a href="{{ page.url }}">Read more...</a></p>
+
+        <div class="row">
+          <div class="col">
+            {% include reviews/info.html %}
+          </div>
+          <div class="col">
+            {% include reviews/map.html %}
+          </div>
+        </div>
+
+        {{ page.excerpt }}
+
+      </header>
+
+    {% endif %}
+  {% endfor %}
+
+  <h1 class="post-title">Reviews</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        </li>
+    {% endfor %}
+  </ul>
+
+</div>

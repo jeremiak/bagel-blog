@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <header class="post-header">
+
+    <h1 class="post-title">"{{ page.title }}"</h1>
+    <p>in which I order a {{ page.bagel.type }} bagel with {{ page.bagel.schmear }} schmear</p>
+
+    <div class="row">
+      <div class="col">
+        {% include reviews/info.html %}
+      </div>
+      <div class="col">
+        {% include reviews/map.html %}
+      </div>
+    </div>
+  </header>
+
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>
