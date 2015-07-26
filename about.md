@@ -28,9 +28,9 @@ Text is awesome, but if you want to get at the raw `JSON` feel free. Just make s
 
 ### GeoJSON
 
-* [/api/bakers.json]({{ site.baseurl }}/api/bakers.json)
+* [/api/bakers.json](/api/bakers.json)
 
 ### Content
 
-* [/api/reviews.json]({{ site.baseurl }}/api/reviews.json)
-* [/api/feed.xml]({{ site.baseurl }}/api/feed.xml)
+* [/api/reviews.json](/api/reviews.json)
+* [/api/feed.xml](/api/feed.xml)
