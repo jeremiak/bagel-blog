@@ -5,7 +5,6 @@ description: "Bagels are holes with rolls around them, but they are quite delici
 baseurl: "/bagel-blog" # the subpath of your site, e.g. /blog/
 url: "http://www.theschmearcampaign.com" # the base hostname & protocol for your site
 
-source: _source
 destination: _public
 
 # Build settings
