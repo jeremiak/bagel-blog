@@ -209,9 +209,15 @@ dt {
 
 .row {
   display: flex;
+  @media all and (max-width: $on-palm) {
+    display: block;
+  }
 }
 .col {
   width: 50%;
+  @media all and (max-width: $on-palm) {
+    width: 100%;
+  }
 }
 
 #map {

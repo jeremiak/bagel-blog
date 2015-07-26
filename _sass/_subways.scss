@@ -2,6 +2,8 @@ $subway-circle-diameter: 30px;
 
 ul.subway {
   margin-left:0;
+  overflow: hidden;
+  width: 100%;
 }
 ul.subway li {
   float: left;
