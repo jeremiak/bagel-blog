@@ -30,7 +30,7 @@
          },
          "review": {
            "score": "{{ post.score }}",
-           "url": "{{ site.baseurl }}{{ post.url }}"
+           "url": "{{ site.url }}{{ post.url }}"
          }
        }
      }{% if forloop.last != true %}, {% endif %}
