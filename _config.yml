@@ -9,3 +9,6 @@ destination: _public
 
 # Build settings
 markdown: kramdown
+
+prose:
+  rooturl: "_posts"
