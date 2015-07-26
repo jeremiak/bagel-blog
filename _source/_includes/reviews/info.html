@@ -5,6 +5,18 @@
   <dd><a href="{{ page.baker.url}}" target="_blank">{{ page.baker.url}}</a></dd>
   <dt>Address</dt>
   <dd>{{ page.location.street.address }}, {{ page.location.street.city }} {{ page.location.street.zip }}</dd>
+  <dt>Hours</dt>
+  <dd>
+    {% if page.location.hours.always == true %}
+      Always open
+    {% else %}
+      <ul class="hours">
+        {% for day in page.location.hours.days %}
+        <li>{{ day[0] | capitalize }}: {{ day[1] }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </dd>
   <dt>Score</dt>
   <dd>{{ page.score }}</dd>
   <dt>Subway Lines</dt>
