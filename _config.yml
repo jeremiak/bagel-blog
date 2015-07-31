@@ -5,6 +5,13 @@ description: "Occasional dispatches from Bageldom"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.theschmearcampaign.com" # the base hostname & protocol for your site
 
+ratingscale:
+  - Disappointing
+  - Meh
+  - Decent
+  - Good
+  - Life-changing
+
 destination: _public
 
 # Build settings

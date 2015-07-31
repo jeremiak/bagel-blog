@@ -1,0 +1,23 @@
+table.hours {
+  width: 90%;
+  margin-left: 5%;
+}
+
+table.hours th {
+  text-align: left;
+}
+
+ul.rating {
+  margin-left: 0;
+  width: 100%;
+}
+
+ul.rating li {
+  opacity: 0.8;
+  display: inline;
+}
+
+ul.rating li.score {
+  font-weight: 800;
+  opacity: 1.0;
+}

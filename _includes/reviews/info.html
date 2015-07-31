@@ -10,15 +10,31 @@
     {% if page.location.hours.always == true %}
       Always open
     {% else %}
-      <ul class="hours">
+      <table class="hours">
+        <tr>
+          <th>Day</th>
+          <th>Opens</th>
+          <th>Closes</th>
+        </tr>
         {% for day in page.location.hours.days %}
-        <li>{{ day[0] | capitalize }}: {{ day[1] }}</li>
+        <tr>
+          <td>{{ day[0] | capitalize }}</td>
+          <td>{{ day[1].from }}</td>
+          <td>{{ day[1].till }}</td>
+        </tr>
         {% endfor %}
-      </ul>
+      </table>
     {% endif %}
   </dd>
   <dt>Score</dt>
-  <dd>{{ page.score }}</dd>
+  <dd>
+    {{ page.rating }}
+    <!-- <ul class="rating">
+      {% for rating in site.ratingscale %}
+      <li style="display: inline;" {% if rating == page.rating %} class="score" {% endif %} >{{ rating }}</li>
+      {% endfor %}
+    </ul> -->
+  </dd>
   <dt>Subway Lines</dt>
   <dd>
     <ul class="subway">

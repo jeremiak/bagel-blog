@@ -23,7 +23,7 @@ bagel:
   toasted: true
   type: "sesame"
   schmear: "scallion"
-score: "Decent"
+rating: "Decent"
 ---
 
 Bagelsmith is an oft-talked about, though never recommended, place to grab a quick nosh. The bagels are decent and the schmear selection is appropriately wide, reaching into various vegan/tofu flavors. In spite of the heavy foot traffic from the nearby Bedford L, the ‘smiths are all quite nice and willing to entertain most bagel requests. The major innovation/appeal of Bagelsmith is that they are open 24 hours a day, encouraging nocturnal visits to Bageldom.
