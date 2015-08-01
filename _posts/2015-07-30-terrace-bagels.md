@@ -64,7 +64,7 @@ The salting of a bagel is a multidimensional art, a true exploration into the nu
 
 I felt the hope rising in my throat, this bagel had scored high on the salt index. I lifted it to my lips and took the first bite, the best bite of any bagel.
 
-I stopped, looked around, and felt a sense of bewilderment. The primary color sinage, long hours and hokey font had decieved me; Terrace Bagels' toasting game was on fucking point.
+I stopped, looked around, and felt a sense of bewilderment. The primary color signage, long hours and hokey font had decieved me; Terrace Bagels' toasting game was on fucking point.
 
 This was a nearly perfectly toasted bagel. The inner surface was crispy and the mantel was soft and warm from inside to out. A well toasted bagel will maintain its shape during eating and reduce the schmear exhaust that comes out the opposite side. The first rule of bageldom is about toasting bagels, because toasting fucking matters.
 
