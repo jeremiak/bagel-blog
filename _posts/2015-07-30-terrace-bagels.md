@@ -21,26 +21,26 @@ location:
   hours:
     days:
       monday:
-        from: 500
-        till: 2300
+        from: "0500"
+        till: "2300"
       tuesday:
-        from: 500
-        till: 2300
+        from: "0500"
+        till: "2300"
       wednesday:
-        from: 500
-        till: 2300
+        from: "0500"
+        till: "2300"
       thursday:
-        from: 500
-        till: 2300
+        from: "0500"
+        till: "2300"
       friday:
-        from: 500
-        till: 2300
+        from: "0500"
+        till: "2300"
       saturday:
-        from: 500
-        till: 2400
+        from: "0500"
+        till: "2400"
       sunday:
-        from: 500
-        till: 2200
+        from: "0500"
+        till: "2200"
 bagel:
   toasted: true
   type: "salt"
@@ -64,7 +64,7 @@ The salting of a bagel is a multidimensional art, a true exploration into the nu
 
 I felt the hope rising in my throat, this bagel had scored high on the salt index. I lifted it to my lips and took the first bite, the best bite of any bagel.
 
-I stopped, looked around, and felt a sense of bewilderment. Terrace Bagels' toasting game was on fucking point.
+I stopped, looked around, and felt a sense of bewilderment. The primary color sinage, long hours and hokey font had decieved me; Terrace Bagels' toasting game was on fucking point.
 
 This was a nearly perfectly toasted bagel. The inner surface was crispy and the mantel was soft and warm from inside to out. A well toasted bagel will maintain its shape during eating and reduce the schmear exhaust that comes out the opposite side. The first rule of bageldom is about toasting bagels, because toasting fucking matters.
 
