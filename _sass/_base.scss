@@ -206,7 +206,10 @@ pre {
 dt {
   font-weight: 800;
 }
-
+body.no-js .post-header {
+  float: left;
+  padding-right: 2em;
+}
 .row {
   display: flex;
   @media all and (max-width: $on-palm) {
@@ -220,6 +223,6 @@ dt {
   }
 }
 
-#map {
+.col #map {
   height: 360px;
 }

@@ -1,6 +1,20 @@
-<div id="map"></div>
+<h1 class="post-title">"{{ page.title }}"</h1>
+<p>in which I order a {{ page.bagel.type }} bagel with {{ page.bagel.schmear }} schmear</p>
+
+<div class="row">
+  <div id="info-container">
+    {% include reviews/info.html %}
+  </div>
+  <div id="map-container">
+    <div id="map"></div>
+  </div>
+</div>
 
 <script>
+  document.querySelector('body.no-js').classList.remove('no-js');
+  document.querySelector('#info-container').classList.add('col');
+  document.querySelector('#map-container').classList.add('col');
+
   var lat = {{ page.location.geo.latitude }}
   var long = {{ page.location.geo.longitude }}
   var loc = [lat, long]
@@ -16,5 +30,4 @@
 
   L.marker(loc)
     .addTo(map)
-
 </script>

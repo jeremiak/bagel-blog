@@ -7,22 +7,8 @@ layout: default
   {% for page in site.posts %}
     {% if forloop.first == true %}
       <header class="post-header">
-        <h1 class="post-title">Most recent review: "{{ page.title }}"</h1>
-        <p>in which I order a {{ page.bagel.type }} bagel with {{ page.bagel.schmear }} schmear.</p>
-
-        <div class="row">
-          <div class="col">
-            {% include reviews/info.html %}
-          </div>
-          <div class="col">
-            {% include reviews/map.html %}
-          </div>
-        </div>
-          {{ page.excerpt | strip_newlines }}
-          <a href="{{ page.url }}">Read more...</a>
-
+        {% include reviews/header.html %}
       </header>
-
     {% endif %}
   {% endfor %}
 
