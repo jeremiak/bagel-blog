@@ -64,11 +64,3 @@ A larger hole allows for more surface area to be exposed to the boiling water, y
 Of course, there is a point where the hole is too large for the bagel and the structural integrity suffers. This is just as bad a situation as too little hole. While I'm still exploring the optimal ratio, I have lately been enjoying bagels where the hole's diameter is roughly equal to one third of the diameter of the entire bagel.
 
 If I'm being honest, my afternoon delight was by no means a good bagel, let alone stellar, but I definitely don't regret devouring it. Sometimes a bagel is just a decent bagel, to be consumed and then quickly forgotten.
-
-<!-- The origin of the hole is the stuff of bagel lore, and as I'm not a bagel historian (yet) I don't feel qualified to pass judgement on which version is correct. But I will share two of my favorite origin stories.
-
-The first rationale is as practical as it is boring. It goes something like when the Jewish immigrants first started hocking their bagel-wares on the streets of the Lower East Side they would carry around long sticks with stacks of bagels threaded on them. _Snooze_
-
-A more clever edition dates back to when the bagel-making Jews lived under the Czars of Russia. The Czar demanded a 10% tax on all bread produced, and that it must come from the middle of the loaf. I'm personally with the Russian monarchs on this one, the ends of bread are the worst part.
-
-The Jews were clever, as they are wont to be, and instead of making longer loaves started producing round loaves of bread and stamping out a hole from the middle that comprised 10% of the mass of bread. -->
