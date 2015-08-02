@@ -4,7 +4,9 @@
   <dt>Website</dt>
   <dd><a href="{{ page.baker.url}}" target="_blank">{{ page.baker.url}}</a></dd>
   <dt>Address</dt>
-  <dd>{{ page.location.street.address }}, {{ page.location.street.city }} {{ page.location.street.zip }}</dd>
+  <dd><a href="https://www.google.com/maps/place/{{ page.location.street.address }},+{{ page.location.street.city }},+NY+{{ page.location.street.zip }}">
+    {{ page.location.street.address }}, {{ page.location.street.city }} {{ page.location.street.zip }}
+  </a></dd>
   <dt>Hours</dt>
   <dd>
     {% if page.location.hours.always == true %}
