@@ -1,6 +1,6 @@
 ---
 layout: review
-title:  "A hole lot of virtue"
+title:  "Hole-y matters"
 date:   2015-08-01
 permalink: "/reviews/la-bagel-delight-on-7th-ave"
 baker:
