@@ -1,9 +1,8 @@
 ---
-published: false
 layout: review
 title:  "A hole lot of virtue"
 date:   2015-08-01
-permalink: "/reviews/la-bagel-delight-on-7th"
+permalink: "/reviews/la-bagel-delight-on-7th-ave"
 baker:
   name: "La Bagel Delight"
   url: "http://www.labageldelight.com/"
@@ -60,7 +59,7 @@ The skill of the baker and a bit of the laziness of the preparer/toaster/schmear
 
 The size of the bagel's hole was the hardest for me to digest as it was slightly more than an indentation in the surface. Perhaps it is important to question the virtue of the hole. That is to say, why are bagels with holes tastier than those without?
 
-A larger hole allows for more surface area to be exposed to the boiling water, yielding a higher amount of crust. The ratio of crust to mantel decreases quickly as the hole gets larger because we trade the fluffy insides for more crust and air.
+A larger hole allows for more surface area to be exposed to the boiling water, yielding a higher amount of crust. And the absolute increase in crust is augmented by a relative one as the mantel is exchanged for the outer shell and empty space. As the hole gets larger, the ratio falls into a place where each bite has just the right amount of each layer: crust, insides and schmear.
 
 Of course, there is a point where the hole is too large for the bagel and the structural integrity suffers. This is just as bad a situation as too little hole. While I'm still exploring the optimal ratio, I have lately been enjoying bagels where the hole's diameter is roughly equal to one third of the diameter of the entire bagel.
 
