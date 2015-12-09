@@ -34,8 +34,8 @@ bagel:
 rating: "Life-changing"
 images:
   files:
-   - 'bagel-world-fort-greene/whole.jpg'
-   - 'bagel-world-fort-greene/split.jpg'
+   - 'bagel-world-fort-greene/whole.JPG'
+   - 'bagel-world-fort-greene/split.JPG'
   attribution: "Jeremy Canfield"
 ---
 
