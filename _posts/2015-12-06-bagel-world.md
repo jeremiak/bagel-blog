@@ -37,7 +37,7 @@ images:
  - 'bagel-world-fort-greene/split.jpg'
 ---
 
-I hold bagel recommendations in high esteem. In fact, if you’re looking for a belated Hannukah gift send me your favorite nosh spot with your favorite order. I hold an **emphatic** bagel recommendation in the highest regard and with almost equal suspicion. As we’ve covered before, bagels are a highly individualistic affair so one eater’s favorite might be the bagel I pass over at an oneg.
+I hold bagel recommendations in high esteem. In fact, if you’re looking for a belated Hannukah gift [send me](mailto:letsnosh@theschmearcampaign.com) your favorite nosh spot with your favorite order. I hold an **emphatic** bagel recommendation in the highest regard and with almost equal suspicion. As we’ve covered before, bagels are a highly individualistic affair so one eater’s favorite might be the bagel I pass over at an oneg.
 
 All this is to say that Bagel World came with high marks from folks who know their bagels, and with whom I share similar bagel values. Arriving at the Fort Greene location just after noon, we were informed that there were no more everything bagels. And the only way that sentence can end happily is with “but we’ve got another batch that should be coming out of the oven in just a few minutes. Would you mind waiting?”
 

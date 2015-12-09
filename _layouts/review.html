@@ -11,6 +11,14 @@ layout: default
 
   <article class="post-content">
     {{ content }}
+
+    {% if page.images %}
+      <div class="post-images">
+        {% for image in page.images %}
+          <img src="{{ '/assets/images/reviews' | prepend: site.baseurl }}/{{ image }}">
+        {% endfor %}
+      </div>
+    {% endif %}
   </article>
 
 </div>
