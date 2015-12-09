@@ -1,5 +1,5 @@
 <h1 class="post-title">"{{ page.title }}"</h1>
-<p>in which I order a {{ page.bagel.type }} bagel with {{ page.bagel.schmear }} schmear</p>
+<p>in which I order a {{ page.bagel.type }} bagel with {{ page.bagel.schmear }} schmear{% if page.bagel.toppings %} with {{ page.bagel.toppings }}{% endif %}</p>
 
 <div class="row">
   <div id="info-container">

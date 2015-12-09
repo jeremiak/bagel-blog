@@ -12,13 +12,20 @@ layout: default
   <article class="post-content">
     {{ content }}
 
-    {% if page.images %}
+    {% if page.images.files %}
       <div class="post-images">
-        {% for image in page.images %}
+        {% for image in page.images.files %}
           <img src="{{ '/assets/images/reviews' | prepend: site.baseurl }}/{{ image }}">
         {% endfor %}
       </div>
     {% endif %}
+
+    {% if page.images.attribution %}
+      <div class="post-image-attribution">
+        Photos are attributed to {{ page.images.attribution }}
+      </div>
+    {% endif %}
+
   </article>
 
 </div>

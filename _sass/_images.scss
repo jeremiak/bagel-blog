@@ -1,4 +1,12 @@
 .post-images img {
   margin-top: .3em;
   width: 49%;
+
+  @media (max-width: $on-palm) {
+    width: 100%;
+  }
+}
+
+.post-image-attribution {
+  font-size: .7em;
 }

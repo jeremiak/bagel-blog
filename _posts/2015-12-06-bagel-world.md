@@ -1,7 +1,7 @@
 ---
 published: true
 layout: review
-title:  "Rocked my world"
+title:  "Rocked my World"
 date:   2015-12-08
 permalink: "/reviews/bagel-world-fort-greene"
 baker:
@@ -33,8 +33,10 @@ bagel:
   toppings: "tomatoes and red onions"
 rating: "Life-changing"
 images:
- - 'bagel-world-fort-greene/whole.jpg'
- - 'bagel-world-fort-greene/split.jpg'
+  files:
+   - 'bagel-world-fort-greene/whole.jpg'
+   - 'bagel-world-fort-greene/split.jpg'
+  attribution: "Jeremy Canfield"
 ---
 
 I hold bagel recommendations in high esteem. In fact, if you’re looking for a belated Hannukah gift [send me](mailto:letsnosh@theschmearcampaign.com) your favorite nosh spot with your favorite order. I hold an **emphatic** bagel recommendation in the highest regard and with almost equal suspicion. As we’ve covered before, bagels are a highly individualistic affair so one eater’s favorite might be the bagel I pass over at an oneg.
