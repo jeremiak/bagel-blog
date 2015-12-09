@@ -18,13 +18,21 @@
           <th>Opens</th>
           <th>Closes</th>
         </tr>
-        {% for day in page.location.hours.days %}
-        <tr>
-          <td>{{ day[0] | capitalize }}</td>
-          <td>{{ day[1].from }}</td>
-          <td>{{ day[1].till }}</td>
-        </tr>
-        {% endfor %}
+        {% if page.location.hours.days.everyday %}
+          <tr>
+            <td>Everyday</td>
+            <td>{{ page.location.hours.days.everyday.from }}</td>
+            <td>{{ page.location.hours.days.everyday.till }}</td>
+          </tr>
+        {% else %}
+          {% for day in page.location.hours.days %}
+          <tr>
+            <td>{{ day[0] | capitalize }}</td>
+            <td>{{ day[1].from }}</td>
+            <td>{{ day[1].till }}</td>
+          </tr>
+          {% endfor %}
+        {% endif %}
       </table>
     {% endif %}
   </dd>
