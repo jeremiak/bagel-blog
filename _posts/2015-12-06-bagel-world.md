@@ -31,7 +31,7 @@ bagel:
   type: "everything"
   schmear: "scallion"
   toppings: "tomatoes and red onions"
-rating: "Life-changing"
+rating: "Good"
 images:
   files:
    - 'bagel-world-fort-greene/whole.JPG'
