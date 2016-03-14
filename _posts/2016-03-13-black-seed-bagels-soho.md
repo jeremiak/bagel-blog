@@ -52,4 +52,4 @@ On this particular day, I ordered the saltiest bagel, toasted, with the horserad
 
 The schmear could be more sinal, which is to say that it offers just a slight twinge of horseradish and is unlikely to be overwhelming. The sharpness provides a nice balance to the creamy cheese. Generally, bagels counter the rich creaminess with bagel toppings such as garlic or onion but by putting the horseradish in the cream cheese every bite is balanced.
 
-Sometimes bagels are a snack, frequently a hangover antidote and when you’re lucky, you might find an exquisite one. If you’d like to ensure your next bagel is delectable, head down to SoHo at your earliest yearning. Give me a [shout](http://twitter.com/home?status=Yo @jeremiak I'm head to @BlackSeedBagels shortly/now. You in?), I'll go with you.
+Sometimes bagels are a snack, frequently a hangover antidote and when you’re lucky, you might find an exquisite one. If you’d like to ensure your next bagel is delectable, head down to SoHo at your earliest yearning. Give me a [shout](http://twitter.com/home?status=Yo @jeremiak I'm planning to head to @BlackSeedBagels shortly/now. You in?), I'll go with you.
