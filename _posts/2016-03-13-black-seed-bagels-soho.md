@@ -13,8 +13,8 @@ location:
     city:     "New York City"
     zip:      "10012"
   geo:
-    latitude: 40.721
-    longitude: -73.995
+    latitude: 40.7209
+    longitude: -73.9947
   hours:
     always: false
     days:
