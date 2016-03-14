@@ -1,6 +1,6 @@
 ---
 layout: review
-title:  "Toast masters"
+title:  "Terrace Bagels: Toast masters"
 date:   2015-07-30
 permalink: "/reviews/terrace-bagels"
 baker:
