@@ -1,6 +1,6 @@
 ---
 layout: review
-title:  "Hole-y matters"
+title:  "La Bagel Delight: Hole-y matters"
 date:   2015-08-01
 permalink: "/reviews/la-bagel-delight-on-7th-ave"
 baker:
