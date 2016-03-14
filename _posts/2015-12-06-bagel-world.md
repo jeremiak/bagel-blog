@@ -1,7 +1,7 @@
 ---
 published: true
 layout: review
-title:  "Rocked my World"
+title:  "Bagel World: Rocked my World"
 date:   2015-12-08
 permalink: "/reviews/bagel-world-fort-greene"
 baker:
