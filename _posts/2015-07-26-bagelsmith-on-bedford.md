@@ -1,6 +1,6 @@
 ---
 layout: review
-title:  "A proper 3AM bagel"
+title:  "Bagelsmith: A proper 3AM bagel"
 date:   2015-07-26
 permalink: "/reviews/bagelsmith-on-bedford"
 baker:
