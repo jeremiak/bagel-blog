@@ -34,8 +34,8 @@ bagel:
 rating: "Good"
 images:
   files:
-   - 'bagel-world-fort-greene/whole.JPG'
-   - 'bagel-world-fort-greene/split.JPG'
+   - 'bagel-world-fort-greene/whole.jpg'
+   - 'bagel-world-fort-greene/split.jpg'
   attribution: "Jeremy Canfield"
 ---
 

@@ -8,21 +8,25 @@ layout: default
     {% if forloop.first == true %}
       <header class="post-header">
         {% include reviews/header.html %}
+        <p>{{ page.excerpt }}</p>
         <a href="{{ page.url }}">&gt;&gt;&nbsp;Read the full review</a>
       </header>
     {% endif %}
   {% endfor %}
 
-  <h1 class="post-title">Reviews</h1>
+  <h2 class="post-title">Reviews</h2>
 
   <ul class="post-list">
     {% for post in site.posts %}
-        <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-          <p>{{ post.excerpt }}</p>
-          <a href="{{ post.url }}">&gt;&gt;&nbsp;Read the full review</a>
-        </li>
+      {% if forloop.first == true %}
+        {% continue %}
+      {% endif %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt }}</p>
+        <a href="{{ post.url }}">&gt;&gt;&nbsp;Read the full review</a>
+      </li>
     {% endfor %}
   </ul>
 

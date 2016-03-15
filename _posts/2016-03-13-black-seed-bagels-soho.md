@@ -33,6 +33,11 @@ bagel:
   type: "salt(iest)"
   schmear: "horseradish"
 rating: "Life-changing"
+images:
+  files:
+   - 'black-seed-bagels-soho/unwrapped.jpg'
+   - 'black-seed-bagels-soho/insides.jpg'
+   - 'black-seed-bagels-soho/half.jpg'
 ---
 
 I like bagels, perhaps more than the average person. But I love Black Seed bagels. These bagels are not going to be for everybody, and are quite different from nearby, iconic bagel purveyors. The major distinction comes from the fact that these are Montreal-style bagels. And perfect.
