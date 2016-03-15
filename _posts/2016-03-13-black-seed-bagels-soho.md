@@ -47,7 +47,7 @@ Now, I think there are roughly three types of bagels worth eating, and a fourth 
 One can quickly ascertain if they are eating a Montreal bagel by observing two things:
 
 0. The bakery has a wood fired oven, often in easy view of the customer
-0. The bagel hole is pretty large, relative to the overall diameter of the bagel. This lines up perfectly with rule #3
+0. The bagel hole is pretty large, relative to the overall diameter of the bagel. This lines up perfectly with [rule #3](/about)
 
 There are some other differences that are much harder to see, but you can absolutely taste. Montreal bagels taste sweeter because honey is added to both the dough and to the poaching water. Now, that might seem on the face to be a contradiction of rule #2 “bagels are descendants of bread, not cake.” Perhaps, but that primarily concerns itself with the consistency of the item, not the sweetness. And while I don’t have any particular affection for the blueberry or sweet varietals, there is a large gulf between sugar blasted bagels and some additive honey.
 
