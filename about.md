@@ -14,7 +14,7 @@ Bagels are one of the tastiest things to come out of the Jewish diaspora. But on
 
 ## Scoring
 
-I wanted to rate each bagel with a high-level rating. Here is the scale, from worse to better:
+I wanted to rate each bagel with a high-level rating. Here is the scale, from bad to better:
 
 * Disappointing
 * Meh
