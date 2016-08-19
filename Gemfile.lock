@@ -1,5 +1,6 @@
-PATH
-  remote: ~/Developer/code/jekyll-offline
+GIT
+  remote: git://github.com/jeremiak/jekyll-offline.git
+  revision: 123867f9d39705250d5d0559cacd02129971f61f
   specs:
     jekyll-offline (0.1.0)
 
