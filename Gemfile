@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-require 'json'
-require 'open-uri'
-versions = JSON.parse(open('https://pages.github.com/versions.json').read)
+gem 'github-pages'
 
-gem 'github-pages', versions['github-pages']
+group 'jekyll-plugins' do
+  gem 'jekyll-offline', :git => 'git://github.com/jeremiak/jekyll-offline.git'
+end
