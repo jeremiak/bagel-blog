@@ -1,3 +1,9 @@
+GIT
+  remote: git://github.com/jeremiak/jekyll-offline.git
+  revision: 123867f9d39705250d5d0559cacd02129971f61f
+  specs:
+    jekyll-offline (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -127,8 +133,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (= 67)
-  json
+  github-pages
+  jekyll-offline!
 
 BUNDLED WITH
    1.10.3
