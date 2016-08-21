@@ -1,0 +1,6 @@
+deployment:
+  prod:
+    branch: master
+    commands:
+      - bundle exec jekyll build
+      - aws s3 sync _site/ s3://bagel-blog/ --delete
