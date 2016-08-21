@@ -3,7 +3,7 @@ published: true
 layout: review
 title:  "Bagel World: Rocked my World"
 date:   2015-12-08
-permalink: "/reviews/bagel-world-fort-greene"
+permalink: /reviews/bagel-world-fort-greene/
 baker:
   name: "Bagel World"
   url: "http://www.bagelworldparkslope.com/"

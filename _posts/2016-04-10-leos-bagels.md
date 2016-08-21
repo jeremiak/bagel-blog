@@ -3,7 +3,7 @@ published: true
 layout: review
 title:  "Leo's Bagels: Olive spread tops at a Wall St bagel shop"
 date:   2016-04-10
-permalink: /reviews/leos-bagels
+permalink: /reviews/leos-bagels/
 baker:
   name: Leo's
   url: http://www.leosbagels.com/

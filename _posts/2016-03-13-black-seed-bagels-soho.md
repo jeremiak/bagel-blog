@@ -3,7 +3,7 @@ published: true
 layout: review
 title:  "Black Seed Bagels: High praise for horseradish and honey"
 date:   2016-03-13
-permalink: "/reviews/black-seed-bagels-soho"
+permalink: /reviews/black-seed-bagels-soho/
 baker:
   name: "Black Seed Bagels"
   url: "http://www.blackseedbagels.com/"

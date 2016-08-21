@@ -2,7 +2,7 @@
 layout: review
 title:  "Bagelsmith: A proper 3AM bagel"
 date:   2015-07-26
-permalink: "/reviews/bagelsmith-on-bedford"
+permalink: /reviews/bagelsmith-on-bedford/
 baker:
   name: "Bagelsmith"
   url: "http://bagelsmith.com/"

@@ -2,7 +2,7 @@
 layout: review
 title:  "Terrace Bagels: Toast masters"
 date:   2015-07-30
-permalink: "/reviews/terrace-bagels"
+permalink: /reviews/terrace-bagels/
 baker:
   name: "Terrace Bagels"
   url: "http://terracebagels.com/"
